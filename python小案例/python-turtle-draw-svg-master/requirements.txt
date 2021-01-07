@@ -1,6 +1,6 @@
--i https://pypi.org/simple
+-i https://pypi.tuna.tsinghua.edu.cn/simple/
 beautifulsoup4==4.6.0
-lxml==4.2.1
+lxml==4.6.2
 numpy==1.14.5
 opencv-python==3.4.1.15
 pywin32==223
